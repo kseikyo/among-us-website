@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import { Environment } from "@react-three/drei";
-import { Suspense } from "react/cjs/react.development";
+import { Suspense } from "react";
 import { Loader } from "./Loader";
 import {
   AmongUsCharacter,
@@ -10,7 +10,6 @@ import {
 } from "./AmongUsCharacter";
 import { Star } from "./Star";
 import { DepthOfField, EffectComposer } from "@react-three/postprocessing";
-
 
 export const AmongUs = ({ AmongUsCount = 100, depth = 30 }) => {
   return (
