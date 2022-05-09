@@ -6,7 +6,7 @@
 
 # Among us website
 
-I've recently found that the game [Among us](https://store.steampowered.com/app/945360/Among_Us/) had no website, so I decided to create one for it!
+I've recently found that the game [Among us](https://www.innersloth.com/games/among-us/) didn't have an animated website, so I decided to create one for it!
 
 
 ## Demo
