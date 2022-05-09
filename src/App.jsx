@@ -17,9 +17,9 @@ function App() {
               </div>
               <a
                 className="font-among text-xl lg:text-2xl font-bold hover:text-red-600 transition-colors"
-                href="https://store.steampowered.com/app/945360/Among_Us/"
+                href="https://www.innersloth.com/games/among-us/"
               >
-                Buy the game on steam
+                Buy the game
               </a>
             </div>
           </div>
