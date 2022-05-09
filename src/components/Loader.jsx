@@ -5,7 +5,7 @@ export const Loader = () => {
   const { progress } = useProgress();
   const main = document.querySelector("main");
   useEffect(() => {
-    if (progress > 80) {
+    if (progress > 60) {
       // show text content only after it's almost loaded
       main.style.display = "grid";
     }
